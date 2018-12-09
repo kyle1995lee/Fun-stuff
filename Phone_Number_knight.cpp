@@ -20,6 +20,7 @@ the phone should look something like this:
 7 8 9
   0
 so you can go from 2 to 7 or 9; 3 to 4 or 8; 
+Find the number of possible phone numbers.
 
 */
 
